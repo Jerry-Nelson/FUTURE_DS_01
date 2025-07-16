@@ -8,7 +8,7 @@ This Power BI project analyzes e-commerce sales data across the United States to
 
 ## 📊 Dashboard Overview
 
-https://raw.githubusercontent.com/Jerry-Nelson/FUTURE_DS_01/refs/heads/main/Screenshot%20(51).png
+![Dashboard Screenshot](https://raw.githubusercontent.com/Jerry-Nelson/FUTURE_DS_01/main/Screenshot%20(51).png)
 
 ---
 
