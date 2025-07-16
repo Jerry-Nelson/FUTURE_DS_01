@@ -41,7 +41,7 @@ This Power BI project analyzes e-commerce sales data across the United States to
 - `E-Commerce-Dashboard.pbix` – Power BI dashboard file  
 - `Screenshot (51).png` – Dashboard preview  
 - `README.md` – Project documentation  
-- *(Optional: Include dataset if not sensitive)*
+
 
 ---
 
@@ -55,7 +55,7 @@ This Power BI project analyzes e-commerce sales data across the United States to
 
 ## 📬 Contact
 
-For questions, reach out via [LinkedIn](https://www.linkedin.com/) or email.
+For questions, reach out via [LinkedIn](https://www.linkedin.com/) or email @ jerrycobbinah775@gmail.com.
 
 ---
 
